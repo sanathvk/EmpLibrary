@@ -14,5 +14,10 @@ public class Employee {
 	{
 		return "Kumar";
 	}
+	
+	public String getAddress()
+	{
+		return "Texas";
+	}
 
 }
