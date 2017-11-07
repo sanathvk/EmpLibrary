@@ -10,5 +10,9 @@ public class Employee {
 	{
 		return 100;
 	}
+	public String getLastName()
+	{
+		return "Kumar";
+	}
 
 }
