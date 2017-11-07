@@ -6,6 +6,7 @@ public class EmpMain {
 		Employee emp = new Employee();
 				
 				System.out.println(emp.getName());
+				System.out.println(emp.getSalary());
 	}
 
 }

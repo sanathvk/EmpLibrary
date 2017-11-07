@@ -6,5 +6,9 @@ public class Employee {
 	{
 		return "Sanath";
 	}
+	public int getSalary()
+	{
+		return 100;
+	}
 
 }
